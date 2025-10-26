@@ -1,5 +1,6 @@
 # S2Y2_Math4AI
 Math for AI - Machine Learning Algorithms
+
 Material: MTH00056 (Mathematics for Artificial Intelligence) - AI23@HCMUS
 
 Group 6 - Math for AI, AI23 @ HCMUS
